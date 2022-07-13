@@ -1,2 +1,1 @@
-# practicewithpizza
-First exercise using Github...
+# pizza
